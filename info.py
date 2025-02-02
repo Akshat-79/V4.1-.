@@ -59,14 +59,14 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Hariom')
 
 # Others
-VERIFY = bool(environ.get('VERIFY', False)) # Verification On ( True ) / Off ( False )
+VERIFY = bool(environ.get('VERIFY', True)) # Verification On ( True ) / Off ( False )
 HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/MAWH_Verify/20')
 PMFILTER = is_enabled(environ.get('PMFILTER', "True"), True)
 G_FILTER = is_enabled(environ.get("G_FILTER", "True"), True)
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'ToShortX.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', '3f44ee4c8434a154624ec96c476706f88a63fb2c')
-SECOND_SHORTLINK_URL = environ.get('SECOND_SHORTLINK_URL', 'Onepageyam.com')
-SECOND_SHORTLINK_API = environ.get('SECOND_SHORTLINK_API', 'bafd8f1a3ee9231e9d3484e858ad1d79cc558be3')
+SECOND_SHORTLINK_URL = environ.get('SECOND_SHORTLINK_URL', 'Bindaaslinks.com')
+SECOND_SHORTLINK_API = environ.get('SECOND_SHORTLINK_API', '49ff923da91ec127edca47fe22d4d2d8d7514669')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
