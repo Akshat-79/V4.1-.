@@ -456,7 +456,7 @@ Bᴏᴛ ᴜᴘᴅᴀᴛᴇ ꜱᴛᴀᴛᴜꜱ : <a href='https://t.me/hbbotz'>�
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <code>hariomsing97@ybl</code>
+💵 ᴜᴘɪ ɪᴅ - <code>priyanshu0165shekhar@okhdfcbank</code>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
